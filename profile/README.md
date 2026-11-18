@@ -3,8 +3,6 @@
     alt="Mirai" width="100%">
 </p>
 
-<h3 align="center">The game engine for humans and agents.</h3>
-
 Mirai is a free, open-source native 3D engine and editor where people and AI agents build the same
 game, in the same scene, at the same time. Agents work inside the editor or connect over MCP and
 JSON-RPC; multiplayer editing and multiplayer games come built in. Written in
